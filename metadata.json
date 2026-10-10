@@ -1,0 +1,6 @@
+{
+  "name": "Travel Ceylon - Luxury & Wild Expeditions",
+  "description": "Explore bespoke handcrafted Sri Lankan journeys, tea plantations, wildlife safaris, and ancient cultural heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
